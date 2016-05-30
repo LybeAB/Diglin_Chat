@@ -1,0 +1,9 @@
+app/code/community/Diglin  app/code/community/Diglin
+app/design/adminhtml/default/default/layout/chat.xml  app/design/adminhtml/default/default/layout/chat.xml
+app/design/adminhtml/default/default/template/chat  app/design/adminhtml/default/default/template/chat
+app/design/frontend/base/default/layout/chat.xml  app/design/frontend/base/default/layout/chat.xml
+app/design/frontend/base/default/template/chat  app/design/frontend/base/default/template/chat
+app/etc/modules/Diglin_Chat.xml  app/etc/modules/Diglin_Chat.xml
+package.xml  package.xml
+README.md  README.md
+skin/adminhtml/default/default/zopim  skin/adminhtml/default/default/zopim
